@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>723814954869-sl44cvh4bhda8jq4u52mmnj2g3u3l78t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.723814954869-sl44cvh4bhda8jq4u52mmnj2g3u3l78t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>723814954869-9gq1kirdvolj8su965c5tge5cjsadk0c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCN-hdiUCckvtY8pwjFy_8uPY9D2BOkJ_M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>723814954869</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bambyno.kitalingo</string>
+	<key>PROJECT_ID</key>
+	<string>dictionnaire-f081a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dictionnaire-f081a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:723814954869:ios:f29ea5a8c907748da9053c</string>
+</dict>
+</plist>
